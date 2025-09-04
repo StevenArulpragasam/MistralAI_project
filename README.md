@@ -15,7 +15,11 @@ It lets users chat with a Mistral model (mistral-small-latest) through an API ro
 ## Setup
 
 ### 1. Clone repo & install dependencies
-
+```bash
+git clone https://github.com/StevenArulpragasam/MistralAI_project.git
+cd my-chat-app
+npm install
+```
 ### 2. Add your Mistral API key
 Create a .env.local file in the project root:
 ``` ini
